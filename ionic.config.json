@@ -1,0 +1,7 @@
+{
+  "name": "menulateral",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
