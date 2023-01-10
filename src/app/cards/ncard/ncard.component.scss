@@ -1,0 +1,26 @@
+ion-card-content{
+    padding: 0px !important;
+}
+ion-card{
+    margin: 5px !important;
+}
+ion-icon{
+    font-size: 20px;
+}
+
+.falbum{
+    width: 50px;
+    margin: 5px;
+}
+ion-card-title{
+    display: inline-block;
+    font-size: small !important;
+    // centrar verticalmente
+}
+
+ion-card-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px !important;
+}
